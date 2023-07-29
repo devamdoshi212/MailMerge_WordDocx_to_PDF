@@ -25,3 +25,9 @@ Open Developer Menu in MS Word
 Open Insert and Open Module
 
 ![alt text](https://github.com/devamdoshi212/MailMerge_WordDocx_to_PDF/blob/main/instruction_with_screenshots/step4.png?raw=true)
+
+# Step 5
+
+Add code.vb in this module (just copy and paste)
+
+![alt text](https://github.com/devamdoshi212/MailMerge_WordDocx_to_PDF/blob/main/instruction_with_screenshots/step5.png?raw=true)
